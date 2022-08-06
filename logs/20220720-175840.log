@@ -1,0 +1,16 @@
+[2022/07/20 Wed 17:58:40.512205][INFO]Stair Speedtest v0.7.2 started in GUI mode.
+[2022/07/20 Wed 17:58:40.513965][INFO]Found V2Ray core at path tools\clients\v2ray.exe
+[2022/07/20 Wed 17:58:40.514408][INFO]Found Shadowsocks-libev at path tools\clients\ss-local.exe
+[2022/07/20 Wed 17:58:40.514638][INFO]Found ShadowsocksR-libev at path tools\clients\ssr-local.exe
+[2022/07/20 Wed 17:58:40.514854][INFO]Found Trojan at path tools\clients\trojan.exe
+[2022/07/20 Wed 17:58:40.515676][INFO]Using local port: 65432
+[2022/07/20 Wed 17:58:40.515929][INFO]Init completed.
+[2022/07/20 Wed 17:58:40.516106][INFO]Input data: https://seaflix.xyz/api/v1/client/subscribe?token=f17c73693c10f373454ace7783142f38^Seaflix_死飞测速^all^tcping^rspeed^true
+[2022/07/20 Wed 17:58:40.516810][INFO]Received Link.
+[2022/07/20 Wed 17:58:40.517028][INFO]Downloading subscription data...
+[2022/07/20 Wed 17:58:48.231020][WARNING]Cannot download subscription directly. Using system proxy.
+[2022/07/20 Wed 17:58:48.232126][WARNING]No system proxy is set. Skipping.
+[2022/07/20 Wed 17:58:48.232387][ERROR]Cannot download subscription data.
+[2022/07/20 Wed 17:58:48.232547][ERROR]No valid link found.
+[2022/07/20 Wed 17:58:48.232678][INFO]Program terminated.
+--EOF--

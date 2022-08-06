@@ -1,0 +1,1062 @@
+[2022/06/27 Mon 21:51:54.256834][INFO]Stair Speedtest v0.7.2 started in GUI mode.
+[2022/06/27 Mon 21:51:54.264661][INFO]Found V2Ray core at path tools\clients\v2ray.exe
+[2022/06/27 Mon 21:51:54.264939][INFO]Found Shadowsocks-libev at path tools\clients\ss-local.exe
+[2022/06/27 Mon 21:51:54.265145][INFO]Found ShadowsocksR-libev at path tools\clients\ssr-local.exe
+[2022/06/27 Mon 21:51:54.265418][INFO]Found Trojan at path tools\clients\trojan.exe
+[2022/06/27 Mon 21:51:54.266301][INFO]Using local port: 65432
+[2022/06/27 Mon 21:51:54.266676][INFO]Init completed.
+[2022/06/27 Mon 21:51:54.266887][INFO]Input data: https://seaflix.xyz/api/v1/client/subscribe?token=f17c73693c10f373454ace7783142f38^Seaflix_死飞测速^all^tcping^rspeed^true
+[2022/06/27 Mon 21:51:54.267266][INFO]Received Link.
+[2022/06/27 Mon 21:51:54.267458][INFO]Downloading subscription data...
+[2022/06/27 Mon 21:51:55.811115][INFO]Parsing subscription data...
+[2022/06/27 Mon 21:51:55.812027][INFO]Filter started.
+[2022/06/27 Mon 21:51:55.812257][INFO]Node  SSProvider - 死飞-鸡场 ( seaflix.xyz )  has been added.
+[2022/06/27 Mon 21:51:55.812392][INFO]Node  SSProvider - 🇭🇰香港01  has been added.
+[2022/06/27 Mon 21:51:55.812520][INFO]Node  SSProvider - 🇭🇰香港02  has been added.
+[2022/06/27 Mon 21:51:55.812638][INFO]Node  SSProvider - 🇭🇰香港03  has been added.
+[2022/06/27 Mon 21:51:55.812766][INFO]Node  SSProvider - 🇭🇰香港 | 流媒体  has been added.
+[2022/06/27 Mon 21:51:55.812973][INFO]Node  SSProvider - 🇸🇬新加坡01  has been added.
+[2022/06/27 Mon 21:51:55.813147][INFO]Node  SSProvider - 🇸🇬新加坡02  has been added.
+[2022/06/27 Mon 21:51:55.813308][INFO]Node  SSProvider - 🇸🇬新加坡 | 流媒体  has been added.
+[2022/06/27 Mon 21:51:55.813440][INFO]Node  SSProvider - 🇰🇷韩国 | 专线  has been added.
+[2022/06/27 Mon 21:51:55.813566][INFO]Node  SSProvider - 🇯🇵日本 | 专线  has been added.
+[2022/06/27 Mon 21:51:55.813688][INFO]Node  SSProvider - 🇺🇸美国 | 直连  has been added.
+[2022/06/27 Mon 21:51:55.813835][INFO]Filter done.
+[2022/06/27 Mon 21:51:55.814006][INFO]Total node(s) found: 11
+[2022/06/27 Mon 21:51:55.814137][INFO]Speedtest will now begin.
+[2022/06/27 Mon 21:51:55.814450][INFO]Received server. Group: Seaflix_死飞测速 Name: 死飞-鸡场 ( seaflix.xyz )
+[2022/06/27 Mon 21:51:55.814856][INFO]Writing config file...
+[2022/06/27 Mon 21:51:55.815393][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:51:59.049071][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:51:59.049912][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:51:59.050092][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:51:59.050252][TCPING]Ping target: seaflix.xyz:888.
+[2022/06/27 Mon 21:51:59.050440][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:51:59.050695][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:51:59.050852][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:51:59.051158][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:51:59.051354][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:51:59.051546][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:51:59.051751][TCPING]Start probing 2606:4700:3032::6815:12e:888.
+[2022/06/27 Mon 21:51:59.052058][GEOIP]Getting GeoIP of '2606:4700:3032::6815:12e' through proxy ''.
+[2022/06/27 Mon 21:51:59.064745][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:51:59.669936][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:00.278322][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:00.765872][GEOIP]Fetched GeoIP data: {"organization":"Cloudflare","longitude":-97.822,"timezone":"America\/Chicago","isp":"Cloudflare","offset":-21600,"asn":13335,"asn_organization":"CLOUDFLARENET","country":"United States","ip":"2606:4700:3032::6815:12e","latitude":37.751,"continent_code":"NA","country_code":"US"}
+
+[2022/06/27 Mon 21:52:00.766317][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:52:00.766644][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:52:00.887380][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:01.490019][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:02.063592][TCPING]Probing 2606:4700:3032::6815:12e:888/tcp - No response - time=3011ms
+[2022/06/27 Mon 21:52:02.093134][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:02.093748][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:52:06.080554][TCPING]Probing 2606:4700:3032::6815:12e:888/tcp - No response - time=3007ms
+[2022/06/27 Mon 21:52:09.105591][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:52:10.086770][TCPING]Probing 2606:4700:3032::6815:12e:888/tcp - No response - time=3003ms
+[2022/06/27 Mon 21:52:14.109049][TCPING]Probing 2606:4700:3032::6815:12e:888/tcp - No response - time=3009ms
+[2022/06/27 Mon 21:52:18.131101][TCPING]Probing 2606:4700:3032::6815:12e:888/tcp - No response - time=3010ms
+[2022/06/27 Mon 21:52:22.153236][TCPING]Probing 2606:4700:3032::6815:12e:888/tcp - No response - time=3014ms
+[2022/06/27 Mon 21:52:22.153891][TCPING]Ping statistics for 2606:4700:3032::6815:12e:888 : 6 probes sent, 0 successful, 6 failed. (100.00% fail)
+[2022/06/27 Mon 21:52:22.154225][ERROR]Cannot connect to this node.
+[2022/06/27 Mon 21:52:22.154783][INFO]Received server. Group: Seaflix_死飞测速 Name: 香港01
+[2022/06/27 Mon 21:52:22.154993][INFO]Writing config file...
+[2022/06/27 Mon 21:52:22.155392][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:52:23.778785][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:52:23.779788][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:52:23.780069][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:52:23.780234][TCPING]Ping target: hk-1.seaflix.top:10025.
+[2022/06/27 Mon 21:52:23.780413][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:52:23.780743][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:52:23.781036][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:52:23.781243][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:52:23.781442][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:52:23.781650][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:52:23.795327][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:52:23.811831][TCPING]Start probing 20.239.160.119:10025.
+[2022/06/27 Mon 21:52:23.812167][GEOIP]Getting GeoIP of '20.239.160.119' through proxy ''.
+[2022/06/27 Mon 21:52:23.949133][TCPING]Probing 20.239.160.119:10025/tcp - Port is open - time=136ms
+[2022/06/27 Mon 21:52:24.400984][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:25.009184][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:25.102384][TCPING]Probing 20.239.160.119:10025/tcp - Port is open - time=140ms
+[2022/06/27 Mon 21:52:25.155344][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":114.1501,"city":"Central","timezone":"Asia\/Hong_Kong","isp":"Microsoft Corporation","offset":28800,"region":"Central and Western District","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"Hong Kong","ip":"20.239.160.119","latitude":22.2908,"continent_code":"AS","country_code":"HK","region_code":"HCW"}
+
+[2022/06/27 Mon 21:52:25.155720][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:52:25.155888][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:52:25.437413][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":114.1501,"city":"Central","timezone":"Asia\/Hong_Kong","isp":"Microsoft Corporation","offset":28800,"region":"Central and Western District","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"Hong Kong","ip":"20.239.160.119","latitude":22.2908,"continent_code":"AS","country_code":"HK","region_code":"HCW"}
+
+[2022/06/27 Mon 21:52:25.437706][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:52:25.437875][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:52:25.616467][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:26.221625][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:26.268111][TCPING]Probing 20.239.160.119:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:52:26.828025][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:26.828722][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:52:27.433389][TCPING]Probing 20.239.160.119:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:52:28.599637][TCPING]Probing 20.239.160.119:10025/tcp - Port is open - time=156ms
+[2022/06/27 Mon 21:52:29.763003][TCPING]Probing 20.239.160.119:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:52:29.763692][TCPING]Ping statistics for 20.239.160.119:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:52:29.763983][RAW]136 140 155 155 156 155
+[2022/06/27 Mon 21:52:29.764280][INFO]TCP Ping: 149.50  Packet Loss: 0.00%
+[2022/06/27 Mon 21:52:29.764497][RULES]Rule match started.
+[2022/06/27 Mon 21:52:29.764638][RULES]Searching default rule.
+[2022/06/27 Mon 21:52:29.764771][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:52:29.764895][RULES]Node  Seaflix_死飞测速 - 香港01  matches no rule. Using default rule.
+[2022/06/27 Mon 21:52:29.765018][RULES]Node  Seaflix_死飞测速 - 香港01  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:52:29.765150][INFO]Got outbound ISP: Microsoft Azure  Country code: HK
+[2022/06/27 Mon 21:52:29.765305][INFO]Now performing site ping...
+[2022/06/27 Mon 21:52:29.765489][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:52:30.108729][GPING]Accessing 'www.google.com' - Success - time=343ms
+[2022/06/27 Mon 21:52:30.488423][GPING]Accessing 'www.google.com' - Success - time=379ms
+[2022/06/27 Mon 21:52:30.818040][GPING]Accessing 'www.google.com' - Success - time=328ms
+[2022/06/27 Mon 21:52:31.171734][GPING]Accessing 'www.google.com' - Success - time=353ms
+[2022/06/27 Mon 21:52:31.505831][GPING]Accessing 'www.google.com' - Success - time=333ms
+[2022/06/27 Mon 21:52:31.849314][GPING]Accessing 'www.google.com' - Success - time=343ms
+[2022/06/27 Mon 21:52:32.192766][GPING]Accessing 'www.google.com' - Success - time=342ms
+[2022/06/27 Mon 21:52:32.531261][GPING]Accessing 'www.google.com' - Success - time=338ms
+[2022/06/27 Mon 21:52:32.871390][GPING]Accessing 'www.google.com' - Success - time=339ms
+[2022/06/27 Mon 21:52:33.188570][GPING]Accessing 'www.google.com' - Success - time=316ms
+[2022/06/27 Mon 21:52:33.189257][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:52:33.189449][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:52:33.189617][RAW]343 379 328 353 333 343 342 338 339 316
+[2022/06/27 Mon 21:52:33.189742][INFO]Site ping: 341.40
+[2022/06/27 Mon 21:52:33.189881][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:52:33.190006][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:52:33.190130][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:52:33.190289][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:52:33.193319][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:52:33.193659][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:52:33.193886][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:52:33.194094][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:52:33.194282][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:52:33.704251][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:52:34.217909][FILEDL]Running threads: 4, total received bytes: 538864, current received bytes: 1077728.
+[2022/06/27 Mon 21:52:34.732999][FILEDL]Running threads: 4, total received bytes: 3307156, current received bytes: 5536584.
+[2022/06/27 Mon 21:52:35.236144][FILEDL]Running threads: 4, total received bytes: 6469268, current received bytes: 6324224.
+[2022/06/27 Mon 21:52:35.737653][FILEDL]Running threads: 4, total received bytes: 9074324, current received bytes: 5210112.
+[2022/06/27 Mon 21:52:36.240827][FILEDL]Running threads: 4, total received bytes: 11941524, current received bytes: 5734400.
+[2022/06/27 Mon 21:52:36.753058][FILEDL]Running threads: 4, total received bytes: 15169172, current received bytes: 6455296.
+[2022/06/27 Mon 21:52:37.264772][FILEDL]Running threads: 4, total received bytes: 18135863, current received bytes: 5933382.
+[2022/06/27 Mon 21:52:37.766738][FILEDL]Running threads: 4, total received bytes: 21101367, current received bytes: 5931008.
+[2022/06/27 Mon 21:52:38.279621][FILEDL]Running threads: 4, total received bytes: 23903031, current received bytes: 5603328.
+[2022/06/27 Mon 21:52:38.792542][FILEDL]Running threads: 4, total received bytes: 26934071, current received bytes: 6062080.
+[2022/06/27 Mon 21:52:39.306047][FILEDL]Running threads: 4, total received bytes: 30030647, current received bytes: 6193152.
+[2022/06/27 Mon 21:52:39.820970][FILEDL]Running threads: 4, total received bytes: 33553207, current received bytes: 7045120.
+[2022/06/27 Mon 21:52:40.336876][FILEDL]Running threads: 4, total received bytes: 36847580, current received bytes: 6588746.
+[2022/06/27 Mon 21:52:40.850015][FILEDL]Running threads: 4, total received bytes: 39993308, current received bytes: 6291456.
+[2022/06/27 Mon 21:52:41.350279][FILEDL]Running threads: 4, total received bytes: 42680284, current received bytes: 5373952.
+[2022/06/27 Mon 21:52:41.864000][FILEDL]Running threads: 4, total received bytes: 42713052, current received bytes: 65536.
+[2022/06/27 Mon 21:52:42.376886][FILEDL]Running threads: 4, total received bytes: 48676828, current received bytes: 11927552.
+[2022/06/27 Mon 21:52:42.890489][FILEDL]Running threads: 4, total received bytes: 51707868, current received bytes: 6062080.
+[2022/06/27 Mon 21:52:43.391845][FILEDL]Running threads: 4, total received bytes: 54656988, current received bytes: 5898240.
+[2022/06/27 Mon 21:52:43.392511][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:52:43.393062][FILEDL]Downloaded 54656988 bytes in 10199 milliseconds.
+[2022/06/27 Mon 21:52:43.393467][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:52:43.393702][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:52:43.393876][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:52:43.394015][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:52:43.394140][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:52:43.394286][RAW]0 1077728 5536584 6324224 5210112 5734400 6455296 5933382 5931008 5603328 6062080 6193152 7045120 6588746 6291456 5373952 65536 11927552 6062080 5898240
+[2022/06/27 Mon 21:52:43.394422][INFO]Average speed: 5.11MB  Max speed: 6.50MB  Upload speed: N/A  Traffic used in bytes: 54656988
+[2022/06/27 Mon 21:52:43.703752][INFO]Received server. Group: Seaflix_死飞测速 Name: 香港02
+[2022/06/27 Mon 21:52:43.704434][INFO]Writing config file...
+[2022/06/27 Mon 21:52:43.705350][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:52:45.325260][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:52:45.326012][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:52:45.326220][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:52:45.326361][TCPING]Ping target: hk-2.seaflix.top:10025.
+[2022/06/27 Mon 21:52:45.326508][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:52:45.326743][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:52:45.326958][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:52:45.327207][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:52:45.327363][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:52:45.327546][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:52:45.340462][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:52:45.371348][GEOIP]Getting GeoIP of '52.246.143.85' through proxy ''.
+[2022/06/27 Mon 21:52:45.371966][TCPING]Start probing 52.246.143.85:10025.
+[2022/06/27 Mon 21:52:45.619360][TCPING]Probing 52.246.143.85:10025/tcp - Port is open - time=246ms
+[2022/06/27 Mon 21:52:45.702045][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:52:45.945960][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:46.553979][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:46.786739][TCPING]Probing 52.246.143.85:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:52:46.874920][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":114.1501,"city":"Central","timezone":"Asia\/Hong_Kong","isp":"Microsoft Corporation","offset":28800,"region":"Central and Western District","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"Hong Kong","ip":"52.246.143.85","latitude":22.2908,"continent_code":"AS","country_code":"HK","region_code":"HCW"}
+
+[2022/06/27 Mon 21:52:46.875514][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:52:46.875798][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:52:47.158317][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:47.761849][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:47.947252][TCPING]Probing 52.246.143.85:10025/tcp - Port is open - time=154ms
+[2022/06/27 Mon 21:52:48.369985][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:52:48.370665][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:52:49.112833][TCPING]Probing 52.246.143.85:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:52:50.256665][TCPING]Probing 52.246.143.85:10025/tcp - Port is open - time=135ms
+[2022/06/27 Mon 21:52:51.411856][TCPING]Probing 52.246.143.85:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:52:51.412666][TCPING]Ping statistics for 52.246.143.85:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:52:51.412942][RAW]246 155 154 155 135 155
+[2022/06/27 Mon 21:52:51.413089][INFO]TCP Ping: 166.67  Packet Loss: 0.00%
+[2022/06/27 Mon 21:52:51.413246][RULES]Rule match started.
+[2022/06/27 Mon 21:52:51.413387][RULES]Searching default rule.
+[2022/06/27 Mon 21:52:51.413519][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:52:51.413651][RULES]Node  Seaflix_死飞测速 - 香港02  matches no rule. Using default rule.
+[2022/06/27 Mon 21:52:51.413775][RULES]Node  Seaflix_死飞测速 - 香港02  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:52:51.413901][INFO]Got outbound ISP: Microsoft Azure  Country code: HK
+[2022/06/27 Mon 21:52:51.414060][INFO]Now performing site ping...
+[2022/06/27 Mon 21:52:51.414238][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:52:51.754188][GPING]Accessing 'www.google.com' - Success - time=339ms
+[2022/06/27 Mon 21:52:52.071998][GPING]Accessing 'www.google.com' - Success - time=317ms
+[2022/06/27 Mon 21:52:52.397646][GPING]Accessing 'www.google.com' - Success - time=325ms
+[2022/06/27 Mon 21:52:52.701534][GPING]Accessing 'www.google.com' - Success - time=303ms
+[2022/06/27 Mon 21:52:53.034232][GPING]Accessing 'www.google.com' - Success - time=332ms
+[2022/06/27 Mon 21:52:53.357087][GPING]Accessing 'www.google.com' - Success - time=322ms
+[2022/06/27 Mon 21:52:53.666130][GPING]Accessing 'www.google.com' - Success - time=308ms
+[2022/06/27 Mon 21:52:53.973713][GPING]Accessing 'www.google.com' - Success - time=307ms
+[2022/06/27 Mon 21:52:54.284069][GPING]Accessing 'www.google.com' - Success - time=309ms
+[2022/06/27 Mon 21:52:54.624521][GPING]Accessing 'www.google.com' - Success - time=339ms
+[2022/06/27 Mon 21:52:54.625067][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:52:54.625399][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:52:54.625670][RAW]339 317 325 303 332 322 308 307 309 339
+[2022/06/27 Mon 21:52:54.625901][INFO]Site ping: 320.10
+[2022/06/27 Mon 21:52:54.626070][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:52:54.626233][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:52:54.626390][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:52:54.626617][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:52:54.626802][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:52:54.627027][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:52:54.627206][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:52:54.627375][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:52:54.627577][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:52:55.140469][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:52:55.650375][FILEDL]Running threads: 4, total received bytes: 539464, current received bytes: 1078928.
+[2022/06/27 Mon 21:52:56.164771][FILEDL]Running threads: 4, total received bytes: 2995856, current received bytes: 4912784.
+[2022/06/27 Mon 21:52:56.678445][FILEDL]Running threads: 4, total received bytes: 5830288, current received bytes: 5668864.
+[2022/06/27 Mon 21:52:57.179441][FILEDL]Running threads: 4, total received bytes: 8812176, current received bytes: 5963776.
+[2022/06/27 Mon 21:52:57.679728][FILEDL]Running threads: 4, total received bytes: 12039824, current received bytes: 6455296.
+[2022/06/27 Mon 21:52:58.182895][FILEDL]Running threads: 4, total received bytes: 15267472, current received bytes: 6455296.
+[2022/06/27 Mon 21:52:58.683808][FILEDL]Running threads: 4, total received bytes: 18560656, current received bytes: 6586368.
+[2022/06/27 Mon 21:52:59.195218][FILEDL]Running threads: 4, total received bytes: 21838645, current received bytes: 6555978.
+[2022/06/27 Mon 21:52:59.710687][FILEDL]Running threads: 4, total received bytes: 25426741, current received bytes: 7176192.
+[2022/06/27 Mon 21:53:00.210710][FILEDL]Running threads: 4, total received bytes: 28932917, current received bytes: 7012352.
+[2022/06/27 Mon 21:53:00.725557][FILEDL]Running threads: 4, total received bytes: 32341978, current received bytes: 6818122.
+[2022/06/27 Mon 21:53:01.237341][FILEDL]Running threads: 4, total received bytes: 35880922, current received bytes: 7077888.
+[2022/06/27 Mon 21:53:01.740260][FILEDL]Running threads: 4, total received bytes: 39223258, current received bytes: 6684672.
+[2022/06/27 Mon 21:53:02.243791][FILEDL]Running threads: 4, total received bytes: 42319834, current received bytes: 6193152.
+[2022/06/27 Mon 21:53:02.747045][FILEDL]Running threads: 4, total received bytes: 45827199, current received bytes: 7014730.
+[2022/06/27 Mon 21:53:03.249467][FILEDL]Running threads: 4, total received bytes: 49366143, current received bytes: 7077888.
+[2022/06/27 Mon 21:53:03.759723][FILEDL]Running threads: 4, total received bytes: 52724863, current received bytes: 6717440.
+[2022/06/27 Mon 21:53:04.270596][FILEDL]Running threads: 4, total received bytes: 56199460, current received bytes: 6949194.
+[2022/06/27 Mon 21:53:04.771906][FILEDL]Running threads: 4, total received bytes: 59574564, current received bytes: 6750208.
+[2022/06/27 Mon 21:53:04.772367][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:53:04.772816][FILEDL]Downloaded 59590948 bytes in 10146 milliseconds.
+[2022/06/27 Mon 21:53:04.773374][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:53:04.773653][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:53:04.773782][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:53:04.773957][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:53:04.774086][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:53:04.774239][RAW]0 1078928 4912784 5668864 5963776 6455296 6455296 6586368 6555978 7176192 7012352 6818122 7077888 6684672 6193152 7014730 7077888 6717440 6949194 6750208
+[2022/06/27 Mon 21:53:04.774409][INFO]Average speed: 5.60MB  Max speed: 6.59MB  Upload speed: N/A  Traffic used in bytes: 59590948
+[2022/06/27 Mon 21:53:05.100567][INFO]Received server. Group: Seaflix_死飞测速 Name: 香港03
+[2022/06/27 Mon 21:53:05.101275][INFO]Writing config file...
+[2022/06/27 Mon 21:53:05.101742][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:53:06.729392][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:53:06.730477][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:53:06.730717][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:53:06.730874][TCPING]Ping target: hk-3.seaflix.top:10025.
+[2022/06/27 Mon 21:53:06.731010][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:53:06.731256][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:53:06.731618][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:53:06.732236][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:53:06.732623][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:53:06.733083][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:53:06.733565][GEOIP]Getting GeoIP of '104.208.104.175' through proxy ''.
+[2022/06/27 Mon 21:53:06.733984][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:53:06.735097][TCPING]Start probing 104.208.104.175:10025.
+[2022/06/27 Mon 21:53:06.916215][TCPING]Probing 104.208.104.175:10025/tcp - Port is open - time=180ms
+[2022/06/27 Mon 21:53:07.057433][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:53:07.338286][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:07.943230][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:08.043267][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":114.1501,"city":"Central","timezone":"Asia\/Hong_Kong","isp":"Microsoft Corporation","offset":28800,"region":"Central and Western District","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"Hong Kong","ip":"104.208.104.175","latitude":22.2908,"continent_code":"AS","country_code":"HK","region_code":"HCW"}
+
+[2022/06/27 Mon 21:53:08.043603][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:53:08.043762][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:53:08.067855][TCPING]Probing 104.208.104.175:10025/tcp - Port is open - time=140ms
+[2022/06/27 Mon 21:53:08.547545][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:09.152845][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:09.216156][TCPING]Probing 104.208.104.175:10025/tcp - Port is open - time=140ms
+[2022/06/27 Mon 21:53:09.757237][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:09.757585][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:53:10.374011][TCPING]Probing 104.208.104.175:10025/tcp - Port is open - time=153ms
+[2022/06/27 Mon 21:53:11.522594][TCPING]Probing 104.208.104.175:10025/tcp - Port is open - time=141ms
+[2022/06/27 Mon 21:53:12.685798][TCPING]Probing 104.208.104.175:10025/tcp - Port is open - time=156ms
+[2022/06/27 Mon 21:53:12.686640][TCPING]Ping statistics for 104.208.104.175:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:53:12.686932][RAW]180 140 140 153 141 156
+[2022/06/27 Mon 21:53:12.687110][INFO]TCP Ping: 151.67  Packet Loss: 0.00%
+[2022/06/27 Mon 21:53:12.687241][RULES]Rule match started.
+[2022/06/27 Mon 21:53:12.687495][RULES]Searching default rule.
+[2022/06/27 Mon 21:53:12.687668][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:53:12.687872][RULES]Node  Seaflix_死飞测速 - 香港03  matches no rule. Using default rule.
+[2022/06/27 Mon 21:53:12.688009][RULES]Node  Seaflix_死飞测速 - 香港03  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:53:12.688139][INFO]Got outbound ISP: Microsoft Azure  Country code: HK
+[2022/06/27 Mon 21:53:12.688302][INFO]Now performing site ping...
+[2022/06/27 Mon 21:53:12.688473][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:53:13.031205][GPING]Accessing 'www.google.com' - Success - time=342ms
+[2022/06/27 Mon 21:53:13.350805][GPING]Accessing 'www.google.com' - Success - time=319ms
+[2022/06/27 Mon 21:53:13.673530][GPING]Accessing 'www.google.com' - Success - time=322ms
+[2022/06/27 Mon 21:53:13.999203][GPING]Accessing 'www.google.com' - Success - time=325ms
+[2022/06/27 Mon 21:53:14.325982][GPING]Accessing 'www.google.com' - Success - time=326ms
+[2022/06/27 Mon 21:53:14.647215][GPING]Accessing 'www.google.com' - Success - time=320ms
+[2022/06/27 Mon 21:53:14.969525][GPING]Accessing 'www.google.com' - Success - time=321ms
+[2022/06/27 Mon 21:53:15.255294][GPING]Accessing 'www.google.com' - Success - time=285ms
+[2022/06/27 Mon 21:53:15.571842][GPING]Accessing 'www.google.com' - Success - time=315ms
+[2022/06/27 Mon 21:53:15.874275][GPING]Accessing 'www.google.com' - Success - time=302ms
+[2022/06/27 Mon 21:53:15.874652][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:53:15.874797][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:53:15.874934][RAW]342 319 322 325 326 320 321 285 315 302
+[2022/06/27 Mon 21:53:15.875098][INFO]Site ping: 317.70
+[2022/06/27 Mon 21:53:15.875314][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:53:15.875506][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:53:15.875671][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:53:15.875862][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:53:15.876276][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:53:15.876505][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:53:15.876685][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:53:15.876869][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:53:15.877087][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:53:16.380655][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:53:16.890824][FILEDL]Running threads: 4, total received bytes: 474532, current received bytes: 949064.
+[2022/06/27 Mon 21:53:17.402477][FILEDL]Running threads: 4, total received bytes: 2487956, current received bytes: 4026848.
+[2022/06/27 Mon 21:53:17.915984][FILEDL]Running threads: 4, total received bytes: 5174932, current received bytes: 5373952.
+[2022/06/27 Mon 21:53:18.418999][FILEDL]Running threads: 4, total received bytes: 8025748, current received bytes: 5701632.
+[2022/06/27 Mon 21:53:18.926606][FILEDL]Running threads: 4, total received bytes: 11384468, current received bytes: 6717440.
+[2022/06/27 Mon 21:53:19.441878][FILEDL]Running threads: 4, total received bytes: 14464660, current received bytes: 6160384.
+[2022/06/27 Mon 21:53:19.943556][FILEDL]Running threads: 4, total received bytes: 17643156, current received bytes: 6356992.
+[2022/06/27 Mon 21:53:20.446941][FILEDL]Running threads: 4, total received bytes: 20824030, current received bytes: 6361748.
+[2022/06/27 Mon 21:53:20.948037][FILEDL]Running threads: 4, total received bytes: 24035294, current received bytes: 6422528.
+[2022/06/27 Mon 21:53:21.451297][FILEDL]Running threads: 4, total received bytes: 27590622, current received bytes: 7110656.
+[2022/06/27 Mon 21:53:21.966861][FILEDL]Running threads: 4, total received bytes: 31064030, current received bytes: 6946816.
+[2022/06/27 Mon 21:53:22.481507][FILEDL]Running threads: 4, total received bytes: 34373598, current received bytes: 6619136.
+[2022/06/27 Mon 21:53:22.983295][FILEDL]Running threads: 4, total received bytes: 37634014, current received bytes: 6520832.
+[2022/06/27 Mon 21:53:23.497933][FILEDL]Running threads: 4, total received bytes: 41123806, current received bytes: 6979584.
+[2022/06/27 Mon 21:53:23.999187][FILEDL]Running threads: 4, total received bytes: 44531678, current received bytes: 6815744.
+[2022/06/27 Mon 21:53:24.503681][FILEDL]Running threads: 4, total received bytes: 48037854, current received bytes: 7012352.
+[2022/06/27 Mon 21:53:25.018691][FILEDL]Running threads: 4, total received bytes: 51134430, current received bytes: 6193152.
+[2022/06/27 Mon 21:53:25.522162][FILEDL]Running threads: 4, total received bytes: 51838942, current received bytes: 1409024.
+[2022/06/27 Mon 21:53:26.037429][FILEDL]Running threads: 4, total received bytes: 57540574, current received bytes: 11403264.
+[2022/06/27 Mon 21:53:26.038180][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:53:26.038483][FILEDL]Downloaded 57540574 bytes in 10162 milliseconds.
+[2022/06/27 Mon 21:53:26.038818][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:53:26.039046][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:53:26.039272][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:53:26.039418][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:53:26.039551][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:53:26.039718][RAW]0 949064 4026848 5373952 5701632 6717440 6160384 6356992 6361748 6422528 7110656 6946816 6619136 6520832 6979584 6815744 7012352 6193152 1409024 11403264
+[2022/06/27 Mon 21:53:26.039876][INFO]Average speed: 5.40MB  Max speed: 6.70MB  Upload speed: N/A  Traffic used in bytes: 57540574
+[2022/06/27 Mon 21:53:26.364499][INFO]Received server. Group: Seaflix_死飞测速 Name: 香港 | 流媒体
+[2022/06/27 Mon 21:53:26.365119][INFO]Writing config file...
+[2022/06/27 Mon 21:53:26.366032][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:53:27.995802][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:53:27.996925][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:53:27.997190][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:53:27.997340][TCPING]Ping target: hk-4.seaflix.top:10025.
+[2022/06/27 Mon 21:53:27.997520][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:53:27.997846][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:53:27.998151][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:53:27.998407][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:53:27.998577][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:53:27.998942][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:53:28.011827][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:53:28.023251][GEOIP]Getting GeoIP of '103.152.226.211' through proxy ''.
+[2022/06/27 Mon 21:53:28.023592][TCPING]Start probing 103.152.226.211:10025.
+[2022/06/27 Mon 21:53:28.243971][TCPING]Probing 103.152.226.211:10025/tcp - Port is open - time=220ms
+[2022/06/27 Mon 21:53:28.322953][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:53:28.619429][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:29.224952][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:29.488480][TCPING]Probing 103.152.226.211:10025/tcp - Port is open - time=232ms
+[2022/06/27 Mon 21:53:29.826907][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:30.204077][GEOIP]Fetched GeoIP data: {"organization":"Dotnet","longitude":103.8554,"city":"Singapore","timezone":"Asia\/Singapore","isp":"Dotnet","offset":28800,"asn":142586,"asn_organization":"Dotnet Ltd","country":"Singapore","ip":"2a0f:9400:7870::4a13:f7d","latitude":1.3036,"postal_code":"18","continent_code":"AS","country_code":"SG"}
+
+[2022/06/27 Mon 21:53:30.204412][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:53:30.204573][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:53:30.430935][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:30.710825][TCPING]Probing 103.152.226.211:10025/tcp - Port is open - time=216ms
+[2022/06/27 Mon 21:53:31.036192][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:31.036921][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:53:31.952588][TCPING]Probing 103.152.226.211:10025/tcp - Port is open - time=231ms
+[2022/06/27 Mon 21:53:33.178779][TCPING]Probing 103.152.226.211:10025/tcp - Port is open - time=215ms
+[2022/06/27 Mon 21:53:34.422171][TCPING]Probing 103.152.226.211:10025/tcp - Port is open - time=231ms
+[2022/06/27 Mon 21:53:34.422645][TCPING]Ping statistics for 103.152.226.211:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:53:34.422830][RAW]220 232 216 231 215 231
+[2022/06/27 Mon 21:53:34.422959][INFO]TCP Ping: 224.17  Packet Loss: 0.00%
+[2022/06/27 Mon 21:53:34.423122][RULES]Rule match started.
+[2022/06/27 Mon 21:53:34.423268][RULES]Searching default rule.
+[2022/06/27 Mon 21:53:34.423394][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:53:34.423590][RULES]Node  Seaflix_死飞测速 - 香港 | 流媒体  matches no rule. Using default rule.
+[2022/06/27 Mon 21:53:34.423747][RULES]Node  Seaflix_死飞测速 - 香港 | 流媒体  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:53:34.423879][INFO]Got outbound ISP: Dotnet  Country code: SG
+[2022/06/27 Mon 21:53:34.424035][INFO]Now performing site ping...
+[2022/06/27 Mon 21:53:34.424215][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:53:35.060780][GPING]Accessing 'www.google.com' - Success - time=636ms
+[2022/06/27 Mon 21:53:35.682977][GPING]Accessing 'www.google.com' - Success - time=621ms
+[2022/06/27 Mon 21:53:36.306653][GPING]Accessing 'www.google.com' - Success - time=623ms
+[2022/06/27 Mon 21:53:36.940899][GPING]Accessing 'www.google.com' - Success - time=633ms
+[2022/06/27 Mon 21:53:37.580778][GPING]Accessing 'www.google.com' - Success - time=639ms
+[2022/06/27 Mon 21:53:38.230058][GPING]Accessing 'www.google.com' - Success - time=648ms
+[2022/06/27 Mon 21:53:38.862273][GPING]Accessing 'www.google.com' - Success - time=631ms
+[2022/06/27 Mon 21:53:39.495782][GPING]Accessing 'www.google.com' - Success - time=633ms
+[2022/06/27 Mon 21:53:40.153329][GPING]Accessing 'www.google.com' - Success - time=656ms
+[2022/06/27 Mon 21:53:40.779530][GPING]Accessing 'www.google.com' - Success - time=625ms
+[2022/06/27 Mon 21:53:40.780029][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:53:40.780234][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:53:40.780374][RAW]636 621 623 633 639 648 631 633 656 625
+[2022/06/27 Mon 21:53:40.780499][INFO]Site ping: 634.50
+[2022/06/27 Mon 21:53:40.780636][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:53:40.780760][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:53:40.780900][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:53:40.781059][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:53:40.781199][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:53:40.781461][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:53:40.781661][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:53:40.781852][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:53:40.782044][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:53:41.283593][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:53:41.798100][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:53:42.306391][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:53:42.820528][FILEDL]Running threads: 4, total received bytes: 193784, current received bytes: 387568.
+[2022/06/27 Mon 21:53:43.328150][FILEDL]Running threads: 4, total received bytes: 421528, current received bytes: 455488.
+[2022/06/27 Mon 21:53:43.839086][FILEDL]Running threads: 4, total received bytes: 1032424, current received bytes: 1221792.
+[2022/06/27 Mon 21:53:44.350123][FILEDL]Running threads: 4, total received bytes: 2131960, current received bytes: 2199072.
+[2022/06/27 Mon 21:53:44.862054][FILEDL]Running threads: 4, total received bytes: 4224872, current received bytes: 4185824.
+[2022/06/27 Mon 21:53:45.365161][FILEDL]Running threads: 4, total received bytes: 7344120, current received bytes: 6238496.
+[2022/06/27 Mon 21:53:45.867276][FILEDL]Running threads: 4, total received bytes: 10654946, current received bytes: 6621652.
+[2022/06/27 Mon 21:53:46.370605][FILEDL]Running threads: 4, total received bytes: 13989978, current received bytes: 6670064.
+[2022/06/27 Mon 21:53:46.873167][FILEDL]Running threads: 4, total received bytes: 17430912, current received bytes: 6881868.
+[2022/06/27 Mon 21:53:47.377469][FILEDL]Running threads: 4, total received bytes: 20786528, current received bytes: 6711232.
+[2022/06/27 Mon 21:53:47.881158][FILEDL]Running threads: 4, total received bytes: 24048128, current received bytes: 6523200.
+[2022/06/27 Mon 21:53:48.396028][FILEDL]Running threads: 4, total received bytes: 27212515, current received bytes: 6328774.
+[2022/06/27 Mon 21:53:48.896825][FILEDL]Running threads: 4, total received bytes: 30482640, current received bytes: 6540250.
+[2022/06/27 Mon 21:53:49.411758][FILEDL]Running threads: 4, total received bytes: 33675088, current received bytes: 6384896.
+[2022/06/27 Mon 21:53:49.927001][FILEDL]Running threads: 4, total received bytes: 37092472, current received bytes: 6834768.
+[2022/06/27 Mon 21:53:50.435066][FILEDL]Running threads: 4, total received bytes: 40157877, current received bytes: 6130810.
+[2022/06/27 Mon 21:53:50.937087][FILEDL]Running threads: 4, total received bytes: 43097669, current received bytes: 5879584.
+[2022/06/27 Mon 21:53:50.937476][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:53:50.937811][FILEDL]Downloaded 43097669 bytes in 10156 milliseconds.
+[2022/06/27 Mon 21:53:50.938258][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:53:50.938544][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:53:50.938703][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:53:50.938832][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:53:50.938990][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:53:50.939137][RAW]0 0 0 387568 455488 1221792 2199072 4185824 6238496 6621652 6670064 6881868 6711232 6523200 6328774 6540250 6384896 6834768 6130810 5879584
+[2022/06/27 Mon 21:53:50.939289][INFO]Average speed: 4.05MB  Max speed: 6.46MB  Upload speed: N/A  Traffic used in bytes: 43097669
+[2022/06/27 Mon 21:53:51.247903][INFO]Received server. Group: Seaflix_死飞测速 Name: 新加坡01
+[2022/06/27 Mon 21:53:51.248540][INFO]Writing config file...
+[2022/06/27 Mon 21:53:51.249440][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:53:52.862657][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:53:52.863706][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:53:52.864161][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:53:52.864437][TCPING]Ping target: sg-1.seaflix.top:10025.
+[2022/06/27 Mon 21:53:52.864575][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:53:52.864810][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:53:52.865109][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:53:52.865318][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:53:52.865475][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:53:52.865648][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:53:52.879499][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:53:52.912684][TCPING]Start probing 18.143.34.102:10025.
+[2022/06/27 Mon 21:53:52.913027][GEOIP]Getting GeoIP of '18.143.34.102' through proxy ''.
+[2022/06/27 Mon 21:53:53.034518][TCPING]Probing 18.143.34.102:10025/tcp - Port is open - time=121ms
+[2022/06/27 Mon 21:53:53.233324][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:53:53.484931][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:53.769218][GEOIP]Fetched GeoIP data: {"organization":"Cloudflare","longitude":103.8554,"city":"Singapore","timezone":"Asia\/Singapore","isp":"Cloudflare","offset":28800,"asn":13335,"asn_organization":"CLOUDFLARENET","country":"Singapore","ip":"104.28.254.47","latitude":1.3036,"postal_code":"18","continent_code":"AS","country_code":"SG"}
+
+[2022/06/27 Mon 21:53:53.769511][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:53:53.769663][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:53:54.093405][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:54.171489][TCPING]Probing 18.143.34.102:10025/tcp - Port is open - time=125ms
+[2022/06/27 Mon 21:53:54.696439][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:55.287767][TCPING]Probing 18.143.34.102:10025/tcp - Port is open - time=108ms
+[2022/06/27 Mon 21:53:55.303571][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:55.909506][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:53:55.910171][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:53:56.421510][TCPING]Probing 18.143.34.102:10025/tcp - Port is open - time=122ms
+[2022/06/27 Mon 21:53:57.535102][TCPING]Probing 18.143.34.102:10025/tcp - Port is open - time=108ms
+[2022/06/27 Mon 21:53:58.653219][TCPING]Probing 18.143.34.102:10025/tcp - Port is open - time=108ms
+[2022/06/27 Mon 21:53:58.653845][TCPING]Ping statistics for 18.143.34.102:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:53:58.654002][RAW]121 125 108 122 108 108
+[2022/06/27 Mon 21:53:58.654159][INFO]TCP Ping: 115.33  Packet Loss: 0.00%
+[2022/06/27 Mon 21:53:58.654389][RULES]Rule match started.
+[2022/06/27 Mon 21:53:58.654612][RULES]Searching default rule.
+[2022/06/27 Mon 21:53:58.654754][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:53:58.655163][RULES]Node  Seaflix_死飞测速 - 新加坡01  matches no rule. Using default rule.
+[2022/06/27 Mon 21:53:58.655327][RULES]Node  Seaflix_死飞测速 - 新加坡01  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:53:58.655453][INFO]Got outbound ISP: Cloudflare  Country code: SG
+[2022/06/27 Mon 21:53:58.655604][INFO]Now performing site ping...
+[2022/06/27 Mon 21:53:58.655785][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:53:58.931099][GPING]Accessing 'www.google.com' - Success - time=275ms
+[2022/06/27 Mon 21:53:59.164001][GPING]Accessing 'www.google.com' - Success - time=232ms
+[2022/06/27 Mon 21:53:59.420230][GPING]Accessing 'www.google.com' - Success - time=255ms
+[2022/06/27 Mon 21:53:59.687909][GPING]Accessing 'www.google.com' - Success - time=267ms
+[2022/06/27 Mon 21:53:59.937954][GPING]Accessing 'www.google.com' - Success - time=249ms
+[2022/06/27 Mon 21:54:00.180787][GPING]Accessing 'www.google.com' - Success - time=242ms
+[2022/06/27 Mon 21:54:00.443763][GPING]Accessing 'www.google.com' - Success - time=262ms
+[2022/06/27 Mon 21:54:00.704189][GPING]Accessing 'www.google.com' - Success - time=259ms
+[2022/06/27 Mon 21:54:00.976703][GPING]Accessing 'www.google.com' - Success - time=271ms
+[2022/06/27 Mon 21:54:01.243792][GPING]Accessing 'www.google.com' - Success - time=266ms
+[2022/06/27 Mon 21:54:01.244363][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:54:01.244690][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:54:01.244827][RAW]275 232 255 267 249 242 262 259 271 266
+[2022/06/27 Mon 21:54:01.244951][INFO]Site ping: 257.80
+[2022/06/27 Mon 21:54:01.245076][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:54:01.245200][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:54:01.245321][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:54:01.245471][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:54:01.245621][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:54:01.245823][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:54:01.246010][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:54:01.246187][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:54:01.246385][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:54:01.755245][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:54:02.266862][FILEDL]Running threads: 4, total received bytes: 308420, current received bytes: 616840.
+[2022/06/27 Mon 21:54:02.781443][FILEDL]Running threads: 4, total received bytes: 2946788, current received bytes: 5276736.
+[2022/06/27 Mon 21:54:03.282324][FILEDL]Running threads: 4, total received bytes: 6473428, current received bytes: 7053280.
+[2022/06/27 Mon 21:54:03.784424][FILEDL]Running threads: 4, total received bytes: 9763772, current received bytes: 6580688.
+[2022/06/27 Mon 21:54:04.287853][FILEDL]Running threads: 4, total received bytes: 13314748, current received bytes: 7101952.
+[2022/06/27 Mon 21:54:04.791310][FILEDL]Running threads: 4, total received bytes: 16559916, current received bytes: 6490336.
+[2022/06/27 Mon 21:54:05.296998][FILEDL]Running threads: 4, total received bytes: 19862716, current received bytes: 6605600.
+[2022/06/27 Mon 21:54:05.812485][FILEDL]Running threads: 4, total received bytes: 23352396, current received bytes: 6979360.
+[2022/06/27 Mon 21:54:06.327639][FILEDL]Running threads: 4, total received bytes: 26895180, current received bytes: 7085568.
+[2022/06/27 Mon 21:54:06.838658][FILEDL]Running threads: 4, total received bytes: 30104251, current received bytes: 6418142.
+[2022/06/27 Mon 21:54:07.339672][FILEDL]Running threads: 4, total received bytes: 33589691, current received bytes: 6970880.
+[2022/06/27 Mon 21:54:07.854965][FILEDL]Running threads: 4, total received bytes: 37214151, current received bytes: 7248920.
+[2022/06/27 Mon 21:54:08.369853][FILEDL]Running threads: 4, total received bytes: 40602055, current received bytes: 6775808.
+[2022/06/27 Mon 21:54:08.871773][FILEDL]Running threads: 4, total received bytes: 44104118, current received bytes: 7004126.
+[2022/06/27 Mon 21:54:09.374299][FILEDL]Running threads: 4, total received bytes: 47427012, current received bytes: 6645788.
+[2022/06/27 Mon 21:54:09.875906][FILEDL]Running threads: 4, total received bytes: 50387236, current received bytes: 5920448.
+[2022/06/27 Mon 21:54:10.380073][FILEDL]Running threads: 4, total received bytes: 53877204, current received bytes: 6979936.
+[2022/06/27 Mon 21:54:10.884204][FILEDL]Running threads: 4, total received bytes: 57253300, current received bytes: 6752192.
+[2022/06/27 Mon 21:54:11.398366][FILEDL]Running threads: 4, total received bytes: 60669396, current received bytes: 6832192.
+[2022/06/27 Mon 21:54:11.398936][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:54:11.399640][FILEDL]Downloaded 60669396 bytes in 10154 milliseconds.
+[2022/06/27 Mon 21:54:11.399998][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:54:11.400202][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:54:11.400352][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:54:11.400486][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:54:11.400620][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:54:11.400766][RAW]0 616840 5276736 7053280 6580688 7101952 6490336 6605600 6979360 7085568 6418142 6970880 7248920 6775808 7004126 6645788 5920448 6979936 6752192 6832192
+[2022/06/27 Mon 21:54:11.400906][INFO]Average speed: 5.70MB  Max speed: 6.71MB  Upload speed: N/A  Traffic used in bytes: 60669396
+[2022/06/27 Mon 21:54:11.726455][INFO]Received server. Group: Seaflix_死飞测速 Name: 新加坡02
+[2022/06/27 Mon 21:54:11.726907][INFO]Writing config file...
+[2022/06/27 Mon 21:54:11.727881][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:54:13.360265][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:54:13.361435][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:54:13.361893][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:54:13.362464][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:54:13.362754][TCPING]Ping target: sg-3.seaflix.top:10025.
+[2022/06/27 Mon 21:54:13.363016][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:54:13.363273][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:54:13.363793][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:54:13.364255][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:54:13.364561][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:54:13.375635][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:54:13.394283][GEOIP]Getting GeoIP of '18.143.44.148' through proxy ''.
+[2022/06/27 Mon 21:54:13.394943][TCPING]Start probing 18.143.44.148:10025.
+[2022/06/27 Mon 21:54:13.501117][TCPING]Probing 18.143.44.148:10025/tcp - Port is open - time=105ms
+[2022/06/27 Mon 21:54:13.696633][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:54:13.982430][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:14.586346][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:14.617981][TCPING]Probing 18.143.44.148:10025/tcp - Port is open - time=108ms
+[2022/06/27 Mon 21:54:15.098011][GEOIP]Fetched GeoIP data: {"organization":"Amazon.com","longitude":103.8554,"city":"Singapore","timezone":"Asia\/Singapore","isp":"Amazon.com","offset":28800,"asn":16509,"asn_organization":"AMAZON-02","country":"Singapore","ip":"18.143.44.148","latitude":1.3036,"postal_code":"18","continent_code":"AS","country_code":"SG"}
+
+[2022/06/27 Mon 21:54:15.098474][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:54:15.098751][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:54:15.192599][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:15.748642][TCPING]Probing 18.143.44.148:10025/tcp - Port is open - time=124ms
+[2022/06/27 Mon 21:54:15.794747][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:16.403117][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:16.403556][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:54:16.870273][TCPING]Probing 18.143.44.148:10025/tcp - Port is open - time=110ms
+[2022/06/27 Mon 21:54:17.988225][TCPING]Probing 18.143.44.148:10025/tcp - Port is open - time=109ms
+[2022/06/27 Mon 21:54:19.121731][TCPING]Probing 18.143.44.148:10025/tcp - Port is open - time=125ms
+[2022/06/27 Mon 21:54:19.122449][TCPING]Ping statistics for 18.143.44.148:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:54:19.122717][RAW]105 108 124 110 109 125
+[2022/06/27 Mon 21:54:19.122839][INFO]TCP Ping: 113.50  Packet Loss: 0.00%
+[2022/06/27 Mon 21:54:19.123040][RULES]Rule match started.
+[2022/06/27 Mon 21:54:19.123248][RULES]Searching default rule.
+[2022/06/27 Mon 21:54:19.123406][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:54:19.123587][RULES]Node  Seaflix_死飞测速 - 新加坡02  matches no rule. Using default rule.
+[2022/06/27 Mon 21:54:19.123726][RULES]Node  Seaflix_死飞测速 - 新加坡02  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:54:19.123857][INFO]Got outbound ISP: Amazon.com  Country code: SG
+[2022/06/27 Mon 21:54:19.124017][INFO]Now performing site ping...
+[2022/06/27 Mon 21:54:19.124235][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:54:19.363471][GPING]Accessing 'www.google.com' - Success - time=238ms
+[2022/06/27 Mon 21:54:19.654102][GPING]Accessing 'www.google.com' - Success - time=289ms
+[2022/06/27 Mon 21:54:19.925258][GPING]Accessing 'www.google.com' - Success - time=270ms
+[2022/06/27 Mon 21:54:20.182843][GPING]Accessing 'www.google.com' - Success - time=257ms
+[2022/06/27 Mon 21:54:20.452046][GPING]Accessing 'www.google.com' - Success - time=268ms
+[2022/06/27 Mon 21:54:20.684610][GPING]Accessing 'www.google.com' - Success - time=232ms
+[2022/06/27 Mon 21:54:20.926363][GPING]Accessing 'www.google.com' - Success - time=241ms
+[2022/06/27 Mon 21:54:21.181625][GPING]Accessing 'www.google.com' - Success - time=254ms
+[2022/06/27 Mon 21:54:21.436029][GPING]Accessing 'www.google.com' - Success - time=253ms
+[2022/06/27 Mon 21:54:21.716031][GPING]Accessing 'www.google.com' - Success - time=279ms
+[2022/06/27 Mon 21:54:21.716675][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:54:21.716805][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:54:21.716937][RAW]238 289 270 257 268 232 241 254 253 279
+[2022/06/27 Mon 21:54:21.717060][INFO]Site ping: 258.10
+[2022/06/27 Mon 21:54:21.717190][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:54:21.717336][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:54:21.717459][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:54:21.717655][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:54:21.717819][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:54:21.718044][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:54:21.718226][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:54:21.718408][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:54:21.718617][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:54:22.222081][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:54:22.734548][FILEDL]Running threads: 4, total received bytes: 1676568, current received bytes: 3353136.
+[2022/06/27 Mon 21:54:23.237180][FILEDL]Running threads: 4, total received bytes: 4592024, current received bytes: 5830912.
+[2022/06/27 Mon 21:54:23.740214][FILEDL]Running threads: 4, total received bytes: 7886242, current received bytes: 6588436.
+[2022/06/27 Mon 21:54:24.242875][FILEDL]Running threads: 4, total received bytes: 11368192, current received bytes: 6963900.
+[2022/06/27 Mon 21:54:24.756527][FILEDL]Running threads: 4, total received bytes: 14727568, current received bytes: 6718752.
+[2022/06/27 Mon 21:54:25.269506][FILEDL]Running threads: 4, total received bytes: 17912208, current received bytes: 6369280.
+[2022/06/27 Mon 21:54:25.781158][FILEDL]Running threads: 4, total received bytes: 21177696, current received bytes: 6530976.
+[2022/06/27 Mon 21:54:26.281932][FILEDL]Running threads: 4, total received bytes: 24239840, current received bytes: 6124288.
+[2022/06/27 Mon 21:54:26.784672][FILEDL]Running threads: 4, total received bytes: 27725488, current received bytes: 6971296.
+[2022/06/27 Mon 21:54:27.296577][FILEDL]Running threads: 4, total received bytes: 31308481, current received bytes: 7165986.
+[2022/06/27 Mon 21:54:27.811447][FILEDL]Running threads: 4, total received bytes: 34343093, current received bytes: 6069224.
+[2022/06/27 Mon 21:54:28.323216][FILEDL]Running threads: 4, total received bytes: 37510611, current received bytes: 6335036.
+[2022/06/27 Mon 21:54:28.824808][FILEDL]Running threads: 4, total received bytes: 40894500, current received bytes: 6767778.
+[2022/06/27 Mon 21:54:29.339586][FILEDL]Running threads: 4, total received bytes: 44123811, current received bytes: 6458622.
+[2022/06/27 Mon 21:54:29.839849][FILEDL]Running threads: 4, total received bytes: 47503763, current received bytes: 6759904.
+[2022/06/27 Mon 21:54:30.353150][FILEDL]Running threads: 4, total received bytes: 51070884, current received bytes: 7134242.
+[2022/06/27 Mon 21:54:30.853572][FILEDL]Running threads: 4, total received bytes: 54255522, current received bytes: 6369276.
+[2022/06/27 Mon 21:54:31.369201][FILEDL]Running threads: 4, total received bytes: 57370386, current received bytes: 6229728.
+[2022/06/27 Mon 21:54:31.881227][FILEDL]Running threads: 4, total received bytes: 60567315, current received bytes: 6393858.
+[2022/06/27 Mon 21:54:31.881672][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:54:31.881988][FILEDL]Downloaded 60567315 bytes in 10164 milliseconds.
+[2022/06/27 Mon 21:54:31.882580][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:54:31.882827][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:54:31.882970][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:54:31.883111][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:54:31.883247][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:54:31.883411][RAW]0 3353136 5830912 6588436 6963900 6718752 6369280 6530976 6124288 6971296 7165986 6069224 6335036 6767778 6458622 6759904 7134242 6369276 6229728 6393858
+[2022/06/27 Mon 21:54:31.883567][INFO]Average speed: 5.68MB  Max speed: 6.52MB  Upload speed: N/A  Traffic used in bytes: 60567315
+[2022/06/27 Mon 21:54:32.207495][INFO]Received server. Group: Seaflix_死飞测速 Name: 新加坡 | 流媒体
+[2022/06/27 Mon 21:54:32.208214][INFO]Writing config file...
+[2022/06/27 Mon 21:54:32.208685][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:54:33.840036][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:54:33.840971][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:54:33.841705][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:54:33.842145][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:54:33.842386][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:54:33.842560][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:54:33.842766][TCPING]Ping target: sg-2.seaflix.top:10025.
+[2022/06/27 Mon 21:54:33.843144][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:54:33.843387][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:54:33.843582][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:54:33.855834][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:54:33.978886][GEOIP]Getting GeoIP of '103.171.26.160' through proxy ''.
+[2022/06/27 Mon 21:54:33.979348][TCPING]Start probing 103.171.26.160:10025.
+[2022/06/27 Mon 21:54:34.226786][TCPING]Probing 103.171.26.160:10025/tcp - Port is open - time=246ms
+[2022/06/27 Mon 21:54:34.271263][STUN]Public end: 103.171.26.160:41747
+[2022/06/27 Mon 21:54:34.271543][STUN]STUN Test 1 passed. Trying STUN Test 2.
+[2022/06/27 Mon 21:54:34.303375][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:54:34.878574][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:35.405900][TCPING]Probing 103.171.26.160:10025/tcp - Port is open - time=171ms
+[2022/06/27 Mon 21:54:35.481961][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:35.498983][GEOIP]Fetched GeoIP data: {"organization":"SEMIBAND","longitude":103.8554,"city":"Singapore","timezone":"Asia\/Singapore","isp":"SEMIBAND","offset":28800,"asn":399686,"asn_organization":"SEMIBAND","country":"Singapore","ip":"103.171.26.160","latitude":1.3036,"postal_code":"18","continent_code":"AS","country_code":"SG"}
+
+[2022/06/27 Mon 21:54:35.499281][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:54:35.499443][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:54:36.090576][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:36.603879][TCPING]Probing 103.171.26.160:10025/tcp - Port is open - time=187ms
+[2022/06/27 Mon 21:54:36.696486][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:37.298531][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:37.299106][STUN]STUN Test 2 failed to get response. Trying STUN Test 1 with CHANGED_IP.
+[2022/06/27 Mon 21:54:37.712118][STUN]Public end: 103.171.26.160:13977
+[2022/06/27 Mon 21:54:37.712763][STUN]STUN Test 1 with CHANGED_IP returned different SRC_IP/SRC_PORT. NAT type: Symmetric NAT.
+[2022/06/27 Mon 21:54:37.778606][TCPING]Probing 103.171.26.160:10025/tcp - Port is open - time=171ms
+[2022/06/27 Mon 21:54:38.973813][TCPING]Probing 103.171.26.160:10025/tcp - Port is open - time=186ms
+[2022/06/27 Mon 21:54:40.157158][TCPING]Probing 103.171.26.160:10025/tcp - Port is open - time=171ms
+[2022/06/27 Mon 21:54:40.157616][TCPING]Ping statistics for 103.171.26.160:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:54:40.157829][RAW]246 171 187 171 186 171
+[2022/06/27 Mon 21:54:40.157993][INFO]TCP Ping: 188.67  Packet Loss: 0.00%
+[2022/06/27 Mon 21:54:40.158224][RULES]Rule match started.
+[2022/06/27 Mon 21:54:40.158381][RULES]Searching default rule.
+[2022/06/27 Mon 21:54:40.158518][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:54:40.158655][RULES]Node  Seaflix_死飞测速 - 新加坡 | 流媒体  matches no rule. Using default rule.
+[2022/06/27 Mon 21:54:40.158790][RULES]Node  Seaflix_死飞测速 - 新加坡 | 流媒体  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:54:40.158946][INFO]Got outbound ISP: SEMIBAND  Country code: SG
+[2022/06/27 Mon 21:54:40.159163][INFO]Now performing site ping...
+[2022/06/27 Mon 21:54:40.159471][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:54:40.543492][GPING]Accessing 'www.google.com' - Success - time=383ms
+[2022/06/27 Mon 21:54:40.886095][GPING]Accessing 'www.google.com' - Success - time=341ms
+[2022/06/27 Mon 21:54:41.244753][GPING]Accessing 'www.google.com' - Success - time=357ms
+[2022/06/27 Mon 21:54:41.607795][GPING]Accessing 'www.google.com' - Success - time=362ms
+[2022/06/27 Mon 21:54:41.983980][GPING]Accessing 'www.google.com' - Success - time=375ms
+[2022/06/27 Mon 21:54:42.345959][GPING]Accessing 'www.google.com' - Success - time=361ms
+[2022/06/27 Mon 21:54:42.716517][GPING]Accessing 'www.google.com' - Success - time=369ms
+[2022/06/27 Mon 21:54:43.094239][GPING]Accessing 'www.google.com' - Success - time=377ms
+[2022/06/27 Mon 21:54:43.433862][GPING]Accessing 'www.google.com' - Success - time=338ms
+[2022/06/27 Mon 21:54:43.778561][GPING]Accessing 'www.google.com' - Success - time=344ms
+[2022/06/27 Mon 21:54:43.778972][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:54:43.779106][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:54:43.779250][RAW]383 341 357 362 375 361 369 377 338 344
+[2022/06/27 Mon 21:54:43.779370][INFO]Site ping: 360.70
+[2022/06/27 Mon 21:54:43.779500][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:54:43.779628][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:54:43.779790][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:54:43.779950][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:54:43.780083][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:54:43.780283][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:54:43.780464][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:54:43.780649][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:54:43.780825][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:54:44.285179][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:54:44.797269][FILEDL]Running threads: 4, total received bytes: 137748, current received bytes: 275496.
+[2022/06/27 Mon 21:54:45.310963][FILEDL]Running threads: 4, total received bytes: 1439512, current received bytes: 2603528.
+[2022/06/27 Mon 21:54:45.813772][FILEDL]Running threads: 4, total received bytes: 4354968, current received bytes: 5830912.
+[2022/06/27 Mon 21:54:46.316618][FILEDL]Running threads: 4, total received bytes: 7775768, current received bytes: 6841600.
+[2022/06/27 Mon 21:54:46.818534][FILEDL]Running threads: 4, total received bytes: 11261336, current received bytes: 6971136.
+[2022/06/27 Mon 21:54:47.332856][FILEDL]Running threads: 4, total received bytes: 14458299, current received bytes: 6393926.
+[2022/06/27 Mon 21:54:47.848722][FILEDL]Running threads: 4, total received bytes: 17459134, current received bytes: 6001670.
+[2022/06/27 Mon 21:54:48.349534][FILEDL]Running threads: 4, total received bytes: 18387742, current received bytes: 1857216.
+[2022/06/27 Mon 21:54:48.851753][FILEDL]Running threads: 4, total received bytes: 24220011, current received bytes: 11664538.
+[2022/06/27 Mon 21:54:49.354498][FILEDL]Running threads: 4, total received bytes: 27595059, current received bytes: 6750096.
+[2022/06/27 Mon 21:54:49.855359][FILEDL]Running threads: 4, total received bytes: 30670202, current received bytes: 6150286.
+[2022/06/27 Mon 21:54:50.371154][FILEDL]Running threads: 4, total received bytes: 33947461, current received bytes: 6554518.
+[2022/06/27 Mon 21:54:50.885945][FILEDL]Running threads: 4, total received bytes: 37099477, current received bytes: 6304032.
+[2022/06/27 Mon 21:54:51.387193][FILEDL]Running threads: 4, total received bytes: 40593110, current received bytes: 6987266.
+[2022/06/27 Mon 21:54:51.890063][FILEDL]Running threads: 4, total received bytes: 44092363, current received bytes: 6998506.
+[2022/06/27 Mon 21:54:52.404732][FILEDL]Running threads: 4, total received bytes: 47129089, current received bytes: 6073452.
+[2022/06/27 Mon 21:54:52.916467][FILEDL]Running threads: 4, total received bytes: 49633167, current received bytes: 5008156.
+[2022/06/27 Mon 21:54:53.431077][FILEDL]Running threads: 4, total received bytes: 53539309, current received bytes: 7812284.
+[2022/06/27 Mon 21:54:53.931791][FILEDL]Running threads: 4, total received bytes: 56890213, current received bytes: 6701808.
+[2022/06/27 Mon 21:54:53.932558][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:54:53.933106][FILEDL]Downloaded 56930645 bytes in 10153 milliseconds.
+[2022/06/27 Mon 21:54:53.933494][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:54:53.933663][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:54:53.933809][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:54:53.933950][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:54:53.934089][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:54:53.934240][RAW]0 275496 2603528 5830912 6841600 6971136 6393926 6001670 1857216 11664538 6750096 6150286 6554518 6304032 6987266 6998506 6073452 5008156 7812284 6701808
+[2022/06/27 Mon 21:54:53.934399][INFO]Average speed: 5.35MB  Max speed: 6.92MB  Upload speed: N/A  Traffic used in bytes: 56930645
+[2022/06/27 Mon 21:54:54.242661][INFO]Received server. Group: Seaflix_死飞测速 Name: 韩国 | 专线
+[2022/06/27 Mon 21:54:54.243085][INFO]Writing config file...
+[2022/06/27 Mon 21:54:54.243525][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:54:55.876388][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:54:55.877359][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:54:55.877941][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:54:55.878340][TCPING]Ping target: korea-1.seaflix.xyz:10025.
+[2022/06/27 Mon 21:54:55.878514][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:54:55.878733][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:54:55.878974][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:54:55.879291][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:54:55.879475][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:54:55.879958][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:54:55.892218][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:54:56.016075][TCPING]Start probing 20.249.10.0:10025.
+[2022/06/27 Mon 21:54:56.016582][GEOIP]Getting GeoIP of '20.249.10.0' through proxy ''.
+[2022/06/27 Mon 21:54:56.265129][TCPING]Probing 20.249.10.0:10025/tcp - Port is open - time=248ms
+[2022/06/27 Mon 21:54:56.498192][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:56.563332][STUN]Public end: 20.249.10.0:43506
+[2022/06/27 Mon 21:54:56.563952][STUN]STUN Test 1 passed. Trying STUN Test 2.
+[2022/06/27 Mon 21:54:56.925831][STUN]STUN returned false trans_id. Probably the response from the last test. Try again...
+[2022/06/27 Mon 21:54:57.398409][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":126.9754,"city":"Seoul","timezone":"Asia\/Seoul","isp":"Microsoft Corporation","offset":32400,"region":"Seoul","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"South Korea","ip":"20.249.10.0","latitude":37.5794,"postal_code":"04524","continent_code":"AS","country_code":"KR","region_code":"11"}
+
+[2022/06/27 Mon 21:54:57.398698][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:54:57.398864][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:54:57.430078][TCPING]Probing 20.249.10.0:10025/tcp - Port is open - time=154ms
+[2022/06/27 Mon 21:54:57.537826][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:57.667209][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":126.9754,"city":"Seoul","timezone":"Asia\/Seoul","isp":"Microsoft Corporation","offset":32400,"region":"Seoul","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"South Korea","ip":"20.249.10.0","latitude":37.5794,"postal_code":"04524","continent_code":"AS","country_code":"KR","region_code":"11"}
+
+[2022/06/27 Mon 21:54:57.667496][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:54:57.667650][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:54:58.144510][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:58.576266][TCPING]Probing 20.249.10.0:10025/tcp - Port is open - time=133ms
+[2022/06/27 Mon 21:54:58.751742][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:59.355543][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:54:59.356063][STUN]STUN Test 2 failed to get response. Trying STUN Test 1 with CHANGED_IP.
+[2022/06/27 Mon 21:54:59.716573][STUN]Public end: 20.249.10.0:43506
+[2022/06/27 Mon 21:54:59.717117][STUN]STUN Test 1 with CHANGED_IP passed. Trying STUN Test 3 with CHANGED_IP.
+[2022/06/27 Mon 21:54:59.730437][TCPING]Probing 20.249.10.0:10025/tcp - Port is open - time=141ms
+[2022/06/27 Mon 21:55:00.321504][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:00.895875][TCPING]Probing 20.249.10.0:10025/tcp - Port is open - time=155ms
+[2022/06/27 Mon 21:55:00.925397][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:01.532108][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:02.045406][TCPING]Probing 20.249.10.0:10025/tcp - Port is open - time=139ms
+[2022/06/27 Mon 21:55:02.045969][TCPING]Ping statistics for 20.249.10.0:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:55:02.046239][RAW]248 154 133 141 155 139
+[2022/06/27 Mon 21:55:02.046380][INFO]TCP Ping: 161.67  Packet Loss: 0.00%
+[2022/06/27 Mon 21:55:02.046509][RULES]Rule match started.
+[2022/06/27 Mon 21:55:02.046639][RULES]Searching default rule.
+[2022/06/27 Mon 21:55:02.046758][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:55:02.046884][RULES]Node  Seaflix_死飞测速 - 韩国 | 专线  matches no rule. Using default rule.
+[2022/06/27 Mon 21:55:02.047008][RULES]Node  Seaflix_死飞测速 - 韩国 | 专线  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:55:02.047130][INFO]Got outbound ISP: Microsoft Azure  Country code: KR
+[2022/06/27 Mon 21:55:02.137970][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:02.745233][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:02.745904][STUN]STUN Test 3 with CHANGED_IP failed to get response. NAT type: Port Restricted Cone NAT.
+[2022/06/27 Mon 21:55:02.746673][INFO]Now performing site ping...
+[2022/06/27 Mon 21:55:02.746963][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:55:03.144031][GPING]Accessing 'www.google.com' - Success - time=396ms
+[2022/06/27 Mon 21:55:03.537527][GPING]Accessing 'www.google.com' - Success - time=393ms
+[2022/06/27 Mon 21:55:03.965242][GPING]Accessing 'www.google.com' - Success - time=427ms
+[2022/06/27 Mon 21:55:04.368162][GPING]Accessing 'www.google.com' - Success - time=402ms
+[2022/06/27 Mon 21:55:04.801866][GPING]Accessing 'www.google.com' - Success - time=432ms
+[2022/06/27 Mon 21:55:05.229793][GPING]Accessing 'www.google.com' - Success - time=427ms
+[2022/06/27 Mon 21:55:05.630436][GPING]Accessing 'www.google.com' - Success - time=399ms
+[2022/06/27 Mon 21:55:06.061850][GPING]Accessing 'www.google.com' - Success - time=431ms
+[2022/06/27 Mon 21:55:06.477092][GPING]Accessing 'www.google.com' - Success - time=414ms
+[2022/06/27 Mon 21:55:06.924401][GPING]Accessing 'www.google.com' - Success - time=446ms
+[2022/06/27 Mon 21:55:06.924819][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:55:06.925074][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:55:06.925376][RAW]396 393 427 402 432 427 399 431 414 446
+[2022/06/27 Mon 21:55:06.925693][INFO]Site ping: 416.70
+[2022/06/27 Mon 21:55:06.925905][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:55:06.926035][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:55:06.926416][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:55:06.926609][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:55:06.926751][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:55:06.926974][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:55:06.927166][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:55:06.927352][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:55:06.927580][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:55:07.433558][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:55:07.947353][FILEDL]Running threads: 4, total received bytes: 621387, current received bytes: 1242774.
+[2022/06/27 Mon 21:55:08.451461][FILEDL]Running threads: 4, total received bytes: 3242115, current received bytes: 5241456.
+[2022/06/27 Mon 21:55:08.965629][FILEDL]Running threads: 4, total received bytes: 6371459, current received bytes: 6258688.
+[2022/06/27 Mon 21:55:09.472290][FILEDL]Running threads: 4, total received bytes: 9730179, current received bytes: 6717440.
+[2022/06/27 Mon 21:55:09.987728][FILEDL]Running threads: 4, total received bytes: 12990595, current received bytes: 6520832.
+[2022/06/27 Mon 21:55:10.501396][FILEDL]Running threads: 4, total received bytes: 16234627, current received bytes: 6488064.
+[2022/06/27 Mon 21:55:11.015831][FILEDL]Running threads: 4, total received bytes: 19740803, current received bytes: 7012352.
+[2022/06/27 Mon 21:55:11.516835][FILEDL]Running threads: 4, total received bytes: 23230595, current received bytes: 6979584.
+[2022/06/27 Mon 21:55:12.030452][FILEDL]Running threads: 4, total received bytes: 26541356, current received bytes: 6621522.
+[2022/06/27 Mon 21:55:12.531477][FILEDL]Running threads: 4, total received bytes: 29622741, current received bytes: 6162770.
+[2022/06/27 Mon 21:55:13.046141][FILEDL]Running threads: 4, total received bytes: 32932309, current received bytes: 6619136.
+[2022/06/27 Mon 21:55:13.561348][FILEDL]Running threads: 4, total received bytes: 36192725, current received bytes: 6520832.
+[2022/06/27 Mon 21:55:14.069429][FILEDL]Running threads: 4, total received bytes: 39682517, current received bytes: 6979584.
+[2022/06/27 Mon 21:55:14.569740][FILEDL]Running threads: 4, total received bytes: 43139541, current received bytes: 6914048.
+[2022/06/27 Mon 21:55:15.069912][FILEDL]Running threads: 4, total received bytes: 46318037, current received bytes: 6356992.
+[2022/06/27 Mon 21:55:15.581365][FILEDL]Running threads: 4, total received bytes: 49481807, current received bytes: 6327540.
+[2022/06/27 Mon 21:55:16.094899][FILEDL]Running threads: 4, total received bytes: 52840527, current received bytes: 6717440.
+[2022/06/27 Mon 21:55:16.607187][FILEDL]Running threads: 4, total received bytes: 55969871, current received bytes: 6258688.
+[2022/06/27 Mon 21:55:17.108331][FILEDL]Running threads: 4, total received bytes: 59148367, current received bytes: 6356992.
+[2022/06/27 Mon 21:55:17.108886][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:55:17.109485][FILEDL]Downloaded 59148367 bytes in 10182 milliseconds.
+[2022/06/27 Mon 21:55:17.109903][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:55:17.110073][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:55:17.110204][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:55:17.110396][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:55:17.110540][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:55:17.110701][RAW]0 1242774 5241456 6258688 6717440 6520832 6488064 7012352 6979584 6621522 6162770 6619136 6520832 6979584 6914048 6356992 6327540 6717440 6258688 6356992
+[2022/06/27 Mon 21:55:17.110858][INFO]Average speed: 5.54MB  Max speed: 6.49MB  Upload speed: N/A  Traffic used in bytes: 59148367
+[2022/06/27 Mon 21:55:17.416372][INFO]Received server. Group: Seaflix_死飞测速 Name: 日本 | 专线
+[2022/06/27 Mon 21:55:17.417006][INFO]Writing config file...
+[2022/06/27 Mon 21:55:17.417563][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:55:19.035119][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:55:19.036204][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:55:19.036636][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:55:19.036817][TCPING]Ping target: japan-1.seaflix.xyz:10026.
+[2022/06/27 Mon 21:55:19.036986][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:55:19.037204][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:55:19.037421][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:55:19.037639][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:55:19.037811][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:55:19.038041][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:55:19.050645][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:55:19.077818][TCPING]Start probing 20.188.23.26:10026.
+[2022/06/27 Mon 21:55:19.078500][GEOIP]Getting GeoIP of '20.188.23.26' through proxy ''.
+[2022/06/27 Mon 21:55:19.219277][TCPING]Probing 20.188.23.26:10026/tcp - Port is open - time=140ms
+[2022/06/27 Mon 21:55:19.388200][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:55:19.655603][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:19.782905][STUN]Public end: 20.188.23.26:40541
+[2022/06/27 Mon 21:55:19.783384][STUN]STUN Test 1 passed. Trying STUN Test 2.
+[2022/06/27 Mon 21:55:20.054980][STUN]STUN returned false trans_id. Probably the response from the last test. Try again...
+[2022/06/27 Mon 21:55:20.359487][TCPING]Probing 20.188.23.26:10026/tcp - Port is open - time=125ms
+[2022/06/27 Mon 21:55:20.552580][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":139.6899,"city":"Tokyo","timezone":"Asia\/Tokyo","isp":"Microsoft Corporation","offset":32400,"region":"Tokyo","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"Japan","ip":"20.188.23.26","latitude":35.6893,"postal_code":"102-0082","continent_code":"AS","country_code":"JP","region_code":"13"}
+
+[2022/06/27 Mon 21:55:20.552877][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:55:20.553033][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:55:20.669908][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:21.275061][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:21.506894][TCPING]Probing 20.188.23.26:10026/tcp - Port is open - time=139ms
+[2022/06/27 Mon 21:55:21.879525][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:22.483035][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:22.483712][STUN]STUN Test 2 failed to get response. Trying STUN Test 1 with CHANGED_IP.
+[2022/06/27 Mon 21:55:22.654380][TCPING]Probing 20.188.23.26:10026/tcp - Port is open - time=139ms
+[2022/06/27 Mon 21:55:22.773550][STUN]Public end: 20.188.23.26:40541
+[2022/06/27 Mon 21:55:22.774175][STUN]STUN Test 1 with CHANGED_IP passed. Trying STUN Test 3 with CHANGED_IP.
+[2022/06/27 Mon 21:55:23.384550][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:23.801225][TCPING]Probing 20.188.23.26:10026/tcp - Port is open - time=138ms
+[2022/06/27 Mon 21:55:23.987626][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:24.595526][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:24.953141][TCPING]Probing 20.188.23.26:10026/tcp - Port is open - time=139ms
+[2022/06/27 Mon 21:55:24.953820][TCPING]Ping statistics for 20.188.23.26:10026 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:55:24.954174][RAW]140 125 139 139 138 139
+[2022/06/27 Mon 21:55:24.954564][INFO]TCP Ping: 136.67  Packet Loss: 0.00%
+[2022/06/27 Mon 21:55:24.954842][RULES]Rule match started.
+[2022/06/27 Mon 21:55:24.955028][RULES]Searching default rule.
+[2022/06/27 Mon 21:55:24.955158][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:55:24.955284][RULES]Node  Seaflix_死飞测速 - 日本 | 专线  matches no rule. Using default rule.
+[2022/06/27 Mon 21:55:24.955410][RULES]Node  Seaflix_死飞测速 - 日本 | 专线  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:55:24.955549][INFO]Got outbound ISP: Microsoft Azure  Country code: JP
+[2022/06/27 Mon 21:55:25.202672][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:25.810396][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:25.810974][STUN]STUN Test 3 with CHANGED_IP failed to get response. NAT type: Port Restricted Cone NAT.
+[2022/06/27 Mon 21:55:25.811767][INFO]Now performing site ping...
+[2022/06/27 Mon 21:55:25.812126][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:55:26.148446][GPING]Accessing 'www.google.com' - Success - time=336ms
+[2022/06/27 Mon 21:55:26.487262][GPING]Accessing 'www.google.com' - Success - time=338ms
+[2022/06/27 Mon 21:55:26.847570][GPING]Accessing 'www.google.com' - Success - time=359ms
+[2022/06/27 Mon 21:55:27.181935][GPING]Accessing 'www.google.com' - Success - time=334ms
+[2022/06/27 Mon 21:55:27.526652][GPING]Accessing 'www.google.com' - Success - time=344ms
+[2022/06/27 Mon 21:55:27.872952][GPING]Accessing 'www.google.com' - Success - time=345ms
+[2022/06/27 Mon 21:55:28.209183][GPING]Accessing 'www.google.com' - Success - time=335ms
+[2022/06/27 Mon 21:55:28.525105][GPING]Accessing 'www.google.com' - Success - time=315ms
+[2022/06/27 Mon 21:55:28.863033][GPING]Accessing 'www.google.com' - Success - time=337ms
+[2022/06/27 Mon 21:55:29.189996][GPING]Accessing 'www.google.com' - Success - time=326ms
+[2022/06/27 Mon 21:55:29.190542][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:55:29.190844][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:55:29.191119][RAW]336 338 359 334 344 345 335 315 337 326
+[2022/06/27 Mon 21:55:29.191246][INFO]Site ping: 336.90
+[2022/06/27 Mon 21:55:29.191417][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:55:29.191587][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:55:29.191723][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:55:29.191884][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:55:29.192076][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:55:29.192330][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:55:29.192567][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:55:29.192772][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:55:29.192956][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:55:29.694123][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:55:30.204968][FILEDL]Running threads: 4, total received bytes: 1046158, current received bytes: 2092316.
+[2022/06/27 Mon 21:55:30.709876][FILEDL]Running threads: 4, total received bytes: 4339342, current received bytes: 6586368.
+[2022/06/27 Mon 21:55:31.213744][FILEDL]Running threads: 4, total received bytes: 7894670, current received bytes: 7110656.
+[2022/06/27 Mon 21:55:31.728244][FILEDL]Running threads: 4, total received bytes: 11204238, current received bytes: 6619136.
+[2022/06/27 Mon 21:55:32.231278][FILEDL]Running threads: 4, total received bytes: 14694030, current received bytes: 6979584.
+[2022/06/27 Mon 21:55:32.736538][FILEDL]Running threads: 4, total received bytes: 18052750, current received bytes: 6717440.
+[2022/06/27 Mon 21:55:33.248819][FILEDL]Running threads: 4, total received bytes: 20756110, current received bytes: 5406720.
+[2022/06/27 Mon 21:55:33.762321][FILEDL]Running threads: 4, total received bytes: 23803534, current received bytes: 6094848.
+[2022/06/27 Mon 21:55:34.275764][FILEDL]Running threads: 4, total received bytes: 26752654, current received bytes: 5898240.
+[2022/06/27 Mon 21:55:34.786930][FILEDL]Running threads: 4, total received bytes: 29849230, current received bytes: 6193152.
+[2022/06/27 Mon 21:55:35.296287][FILEDL]Running threads: 4, total received bytes: 32980958, current received bytes: 6263456.
+[2022/06/27 Mon 21:55:35.806539][FILEDL]Running threads: 4, total received bytes: 35980422, current received bytes: 5998928.
+[2022/06/27 Mon 21:55:36.321677][FILEDL]Running threads: 4, total received bytes: 39078190, current received bytes: 6195536.
+[2022/06/27 Mon 21:55:36.836893][FILEDL]Running threads: 4, total received bytes: 42633518, current received bytes: 7110656.
+[2022/06/27 Mon 21:55:37.338792][FILEDL]Running threads: 4, total received bytes: 45812014, current received bytes: 6356992.
+[2022/06/27 Mon 21:55:37.852772][FILEDL]Running threads: 4, total received bytes: 49334574, current received bytes: 7045120.
+[2022/06/27 Mon 21:55:38.355314][FILEDL]Running threads: 4, total received bytes: 52775214, current received bytes: 6881280.
+[2022/06/27 Mon 21:55:38.857387][FILEDL]Running threads: 4, total received bytes: 55970094, current received bytes: 6389760.
+[2022/06/27 Mon 21:55:39.357650][FILEDL]Running threads: 4, total received bytes: 58870062, current received bytes: 5799936.
+[2022/06/27 Mon 21:55:39.358493][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:55:39.359658][FILEDL]Downloaded 58886446 bytes in 10167 milliseconds.
+[2022/06/27 Mon 21:55:39.360225][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:55:39.360391][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:55:39.360559][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:55:39.360696][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:55:39.360818][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:55:39.360954][RAW]0 2092316 6586368 7110656 6619136 6979584 6717440 5406720 6094848 5898240 6193152 6263456 5998928 6195536 7110656 6356992 7045120 6881280 6389760 5799936
+[2022/06/27 Mon 21:55:39.361129][INFO]Average speed: 5.52MB  Max speed: 6.64MB  Upload speed: N/A  Traffic used in bytes: 58886446
+[2022/06/27 Mon 21:55:39.669388][INFO]Received server. Group: Seaflix_死飞测速 Name: 美国 | 直连
+[2022/06/27 Mon 21:55:39.669840][INFO]Writing config file...
+[2022/06/27 Mon 21:55:39.670632][INFO]Starting up shadowsocks-libev...
+[2022/06/27 Mon 21:55:41.293708][INFO]Now started fetching GeoIP info...
+[2022/06/27 Mon 21:55:41.294821][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:55:41.295501][INFO]Now performing TCP ping...
+[2022/06/27 Mon 21:55:41.295786][TCPING]TCP Ping begin.
+[2022/06/27 Mon 21:55:41.295942][TCPING]Ping target: us-2.seaflix.top:10025.
+[2022/06/27 Mon 21:55:41.296093][GEOIP]Found host name. Resolving into IP address.
+[2022/06/27 Mon 21:55:41.296287][GEOIP]GeoIP parse begin.
+[2022/06/27 Mon 21:55:41.296484][STUN]STUN on SOCKS5 server 127.0.0.1:65432 started. Using STUN server stun.ekiga.net:3478.
+[2022/06/27 Mon 21:55:41.296713][TCPING]Host name provided. Resolving into IP address.
+[2022/06/27 Mon 21:55:41.296891][GEOIP]No address provided, getting GeoIP through proxy 'socks5://127.0.0.1:65432'.
+[2022/06/27 Mon 21:55:41.297198][GEOIP]Getting GeoIP of '20.106.73.227' through proxy ''.
+[2022/06/27 Mon 21:55:41.297457][TCPING]Start probing 20.106.73.227:10025.
+[2022/06/27 Mon 21:55:41.309302][STUN]Trying STUN Test 1.
+[2022/06/27 Mon 21:55:41.539770][TCPING]Probing 20.106.73.227:10025/tcp - Port is open - time=242ms
+[2022/06/27 Mon 21:55:41.624770][GEOIP]No GeoIP result. Leaving.
+[2022/06/27 Mon 21:55:41.910738][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:42.517098][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:42.781843][TCPING]Probing 20.106.73.227:10025/tcp - Port is open - time=233ms
+[2022/06/27 Mon 21:55:42.979958][GEOIP]Fetched GeoIP data: {"organization":"Microsoft Azure","longitude":-112.0866,"city":"Phoenix","timezone":"America\/Phoenix","isp":"Microsoft Corporation","offset":-25200,"region":"Arizona","asn":8075,"asn_organization":"MICROSOFT-CORP-MSN-AS-BLOCK","country":"United States","ip":"20.106.73.227","latitude":33.4475,"postal_code":"85036","continent_code":"NA","country_code":"US","region_code":"AZ"}
+
+[2022/06/27 Mon 21:55:42.980416][GEOIP]Parsing GeoIP result.
+[2022/06/27 Mon 21:55:42.980709][GEOIP]Parse GeoIP complete. Leaving.
+[2022/06/27 Mon 21:55:43.121483][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:43.727595][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:44.037689][TCPING]Probing 20.106.73.227:10025/tcp - Port is open - time=247ms
+[2022/06/27 Mon 21:55:44.330366][STUN]Error on recvfrom.
+[2022/06/27 Mon 21:55:44.331005][STUN]STUN Test 1 failed to get response. NAT type: UDP Blocked.
+[2022/06/27 Mon 21:55:45.275745][TCPING]Probing 20.106.73.227:10025/tcp - Port is open - time=232ms
+[2022/06/27 Mon 21:55:46.517289][TCPING]Probing 20.106.73.227:10025/tcp - Port is open - time=232ms
+[2022/06/27 Mon 21:55:47.756560][TCPING]Probing 20.106.73.227:10025/tcp - Port is open - time=233ms
+[2022/06/27 Mon 21:55:47.757346][TCPING]Ping statistics for 20.106.73.227:10025 : 6 probes sent, 6 successful, 0 failed. (0.00% fail)
+[2022/06/27 Mon 21:55:47.757588][RAW]242 233 247 232 232 233
+[2022/06/27 Mon 21:55:47.757713][INFO]TCP Ping: 236.50  Packet Loss: 0.00%
+[2022/06/27 Mon 21:55:47.757860][RULES]Rule match started.
+[2022/06/27 Mon 21:55:47.758135][RULES]Searching default rule.
+[2022/06/27 Mon 21:55:47.758288][RULES]Using default rule: 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:55:47.758429][RULES]Node  Seaflix_死飞测速 - 美国 | 直连  matches no rule. Using default rule.
+[2022/06/27 Mon 21:55:47.758608][RULES]Node  Seaflix_死飞测速 - 美国 | 直连  uses test file 'https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe'.
+[2022/06/27 Mon 21:55:47.758743][INFO]Got outbound ISP: Microsoft Azure  Country code: US
+[2022/06/27 Mon 21:55:47.758906][INFO]Now performing site ping...
+[2022/06/27 Mon 21:55:47.759214][GPING]Website ping started. Target: 'www.google.com' . Proxy: '127.0.0.1:65432' .
+[2022/06/27 Mon 21:55:48.267312][GPING]Accessing 'www.google.com' - Success - time=507ms
+[2022/06/27 Mon 21:55:48.785366][GPING]Accessing 'www.google.com' - Success - time=517ms
+[2022/06/27 Mon 21:55:49.301999][GPING]Accessing 'www.google.com' - Success - time=516ms
+[2022/06/27 Mon 21:55:49.805862][GPING]Accessing 'www.google.com' - Success - time=503ms
+[2022/06/27 Mon 21:55:50.325505][GPING]Accessing 'www.google.com' - Success - time=518ms
+[2022/06/27 Mon 21:55:50.858873][GPING]Accessing 'www.google.com' - Success - time=532ms
+[2022/06/27 Mon 21:55:51.371077][GPING]Accessing 'www.google.com' - Success - time=511ms
+[2022/06/27 Mon 21:55:51.877407][GPING]Accessing 'www.google.com' - Success - time=505ms
+[2022/06/27 Mon 21:55:52.420017][GPING]Accessing 'www.google.com' - Success - time=541ms
+[2022/06/27 Mon 21:55:52.958738][GPING]Accessing 'www.google.com' - Success - time=538ms
+[2022/06/27 Mon 21:55:52.959120][GPING]Ping statistics of target www.google.com : 10 probes sent, 10 successful, 0 failed. 
+[2022/06/27 Mon 21:55:52.959269][GPING]Website ping completed. Leaving.
+[2022/06/27 Mon 21:55:52.959399][RAW]507 517 516 503 518 532 511 505 541 538
+[2022/06/27 Mon 21:55:52.959527][INFO]Site ping: 518.80
+[2022/06/27 Mon 21:55:52.959709][INFO]Now performing file download speed test...
+[2022/06/27 Mon 21:55:52.959855][FILEDL]Multi-thread download test started.
+[2022/06/27 Mon 21:55:52.959987][FILEDL]Fetch target: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+[2022/06/27 Mon 21:55:52.960155][FILEDL]Found HTTPS URL. Initializing OpenSSL library.
+[2022/06/27 Mon 21:55:52.960289][FILEDL]Starting up thread #1.
+[2022/06/27 Mon 21:55:52.960510][FILEDL]Starting up thread #2.
+[2022/06/27 Mon 21:55:52.960690][FILEDL]Starting up thread #3.
+[2022/06/27 Mon 21:55:52.960895][FILEDL]Starting up thread #4.
+[2022/06/27 Mon 21:55:52.961104][FILEDL]All threads launched. Start accumulating data.
+[2022/06/27 Mon 21:55:53.468388][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:55:53.977048][FILEDL]Running threads: 4, total received bytes: 0, current received bytes: 0.
+[2022/06/27 Mon 21:55:54.485534][FILEDL]Running threads: 4, total received bytes: 296256, current received bytes: 592512.
+[2022/06/27 Mon 21:55:54.998101][FILEDL]Running threads: 4, total received bytes: 1586984, current received bytes: 2581456.
+[2022/06/27 Mon 21:55:55.499814][FILEDL]Running threads: 4, total received bytes: 4298936, current received bytes: 5423904.
+[2022/06/27 Mon 21:55:56.013193][FILEDL]Running threads: 4, total received bytes: 7589052, current received bytes: 6580232.
+[2022/06/27 Mon 21:55:56.528715][FILEDL]Running threads: 4, total received bytes: 10737158, current received bytes: 6296212.
+[2022/06/27 Mon 21:55:57.029259][FILEDL]Running threads: 4, total received bytes: 13681280, current received bytes: 5888244.
+[2022/06/27 Mon 21:55:57.530245][FILEDL]Running threads: 4, total received bytes: 16869683, current received bytes: 6376806.
+[2022/06/27 Mon 21:55:58.031063][FILEDL]Running threads: 4, total received bytes: 19703699, current received bytes: 5668032.
+[2022/06/27 Mon 21:55:58.533693][FILEDL]Running threads: 4, total received bytes: 20387987, current received bytes: 1368576.
+[2022/06/27 Mon 21:55:59.047678][FILEDL]Running threads: 4, total received bytes: 25657252, current received bytes: 10538530.
+[2022/06/27 Mon 21:55:59.557337][FILEDL]Running threads: 4, total received bytes: 28340771, current received bytes: 5367038.
+[2022/06/27 Mon 21:56:00.061149][FILEDL]Running threads: 4, total received bytes: 31337763, current received bytes: 5993984.
+[2022/06/27 Mon 21:56:00.576689][FILEDL]Running threads: 4, total received bytes: 34180352, current received bytes: 5685178.
+[2022/06/27 Mon 21:56:01.090961][FILEDL]Running threads: 4, total received bytes: 37185439, current received bytes: 6010174.
+[2022/06/27 Mon 21:56:01.603984][FILEDL]Running threads: 4, total received bytes: 40235533, current received bytes: 6100188.
+[2022/06/27 Mon 21:56:02.114062][FILEDL]Running threads: 4, total received bytes: 43403691, current received bytes: 6336316.
+[2022/06/27 Mon 21:56:02.626821][FILEDL]Running threads: 4, total received bytes: 46519034, current received bytes: 6230686.
+[2022/06/27 Mon 21:56:03.141004][FILEDL]Running threads: 4, total received bytes: 49491354, current received bytes: 5944640.
+[2022/06/27 Mon 21:56:03.141887][FILEDL]Test completed. Terminate all threads.
+[2022/06/27 Mon 21:56:03.142710][FILEDL]Downloaded 49507738 bytes in 10182 milliseconds.
+[2022/06/27 Mon 21:56:03.143193][FILEDL]Thread #1 has exited.
+[2022/06/27 Mon 21:56:03.143424][FILEDL]Thread #2 has exited.
+[2022/06/27 Mon 21:56:03.143568][FILEDL]Thread #3 has exited.
+[2022/06/27 Mon 21:56:03.143713][FILEDL]Thread #4 has exited.
+[2022/06/27 Mon 21:56:03.143844][FILEDL]Multi-thread download test completed.
+[2022/06/27 Mon 21:56:03.144005][RAW]0 0 592512 2581456 5423904 6580232 6296212 5888244 6376806 5668032 1368576 10538530 5367038 5993984 5685178 6010174 6100188 6336316 6230686 5944640
+[2022/06/27 Mon 21:56:03.144157][INFO]Average speed: 4.64MB  Max speed: 5.93MB  Upload speed: N/A  Traffic used in bytes: 49507738
+[2022/06/27 Mon 21:56:03.453813][INFO]All nodes tested. Total/Online nodes: 11/10 Traffic used: 534.63MB
+[2022/06/27 Mon 21:56:03.455387][INFO]Now exporting result...
+[2022/06/27 Mon 21:56:03.456722][RENDER]Start calculating basic string widths for font 'tools\misc\WenQuanYiMicroHei-01.ttf' at size 12.
+[2022/06/27 Mon 21:56:03.464922][RENDER]Calculated basic string widths: Number=9 N/A=28 KB=21 MB=26 GB=23 Percent=14 Dot=5
+[2022/06/27 Mon 21:56:03.469872][INFO]All values generated. Start exporting image...
+[2022/06/27 Mon 21:56:03.529814][INFO]Result saved to results\20220627-215155.png .
+[2022/06/27 Mon 21:56:03.536010][INFO]Multi-link test completed.
+[2022/06/27 Mon 21:56:03.536333][INFO]Program terminated.
+--EOF--

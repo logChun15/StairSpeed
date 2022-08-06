@@ -1,0 +1,15 @@
+[2022/07/25 Mon 12:47:47.121514][INFO]Stair Speedtest v0.7.2 started in GUI mode.
+[2022/07/25 Mon 12:47:47.123483][INFO]Found V2Ray core at path tools\clients\v2ray.exe
+[2022/07/25 Mon 12:47:47.123835][INFO]Found Shadowsocks-libev at path tools\clients\ss-local.exe
+[2022/07/25 Mon 12:47:47.124189][INFO]Found ShadowsocksR-libev at path tools\clients\ssr-local.exe
+[2022/07/25 Mon 12:47:47.124457][INFO]Found Trojan at path tools\clients\trojan.exe
+[2022/07/25 Mon 12:47:47.125494][INFO]Using local port: 65432
+[2022/07/25 Mon 12:47:47.125781][INFO]Init completed.
+[2022/07/25 Mon 12:47:47.125965][INFO]Input data: https://xf.gl/api/v1/client/subscribe?token=9a1e11d0d48f2c58421cbe3989d036^fxx^all^tcping^rspeed^true
+[2022/07/25 Mon 12:47:47.126425][INFO]Received Link.
+[2022/07/25 Mon 12:47:47.126688][INFO]Downloading subscription data...
+[2022/07/25 Mon 12:47:48.175352][WARNING]Cannot download subscription directly. Using system proxy.
+[2022/07/25 Mon 12:47:49.137019][ERROR]Cannot download subscription data.
+[2022/07/25 Mon 12:47:49.137334][ERROR]No valid link found.
+[2022/07/25 Mon 12:47:49.137486][INFO]Program terminated.
+--EOF--
